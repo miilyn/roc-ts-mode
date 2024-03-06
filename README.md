@@ -18,7 +18,7 @@ This package requires:
 
 ## Installation from MELPA
 
-tbd
+Coming soon, [MELPA PR](https://github.com/melpa/melpa/pull/8953) submitted :-)
 
 ## Installation from source
 
